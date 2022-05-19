@@ -1,8 +1,8 @@
 ###  Olá, sou Vítor Del' Duca.
 
-- 🔭 Em trasição de carreira, busco oportunidade como Web Dev Full Stack, Back-end ou Front-end Júnior;
+- 🔭 Em trasição de carreira, busco oportunidade como Desenvolvedor Full Stack, Back-end ou Front-end Júnior;
 - 🌱 Atualmente estou estudando React.js;
-- 📘 Pretendo estudar Java, Pyton e PHP;
+- 📘 Pretendo estudar Java e PHP;
 - 😄 Pronomes: ele / dele.
 
 <div align="center">
