@@ -1,6 +1,8 @@
-###  Olá, sou Vítor Del' Duca.
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Vítor Del' Duca!!!</h1>
 
-- 🔭 Em trasição de carreira, busco oportunidade como Desenvolvedor Full Stack, Back-end ou Front-end Júnior;
+- 🤝🏻 Em trasição de carreira, busco oportunidade como Desenvolvedor Full Stack, Back-end ou Front-end Júnior;
+- 👨🏻‍🎓 Sou graduado em Direito e recentemente passei por uma imersão de 6 meses, com mais de 400 horas de estudos, onde foram trabalhadas valências soft e tech;
+- 🔭 Tenho mais de 5 anos de experiência com gestão de pessoas, onde tive a oportunidade de liderar times de até 200 pessoas, conheci a importância dos indicadores do negócio, buscava soluções para qualificar o time e com isso fui uma liderança ativa e motivadora. Além disso, possuo mais de 4 anos de experiência com treinamento coorporativo e vendas. 
 - 🌱 Atualmente estou estudando React.js;
 - 📘 Pretendo estudar Java e PHP;
 - 😄 Pronomes: ele / dele.
