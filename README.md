@@ -1,4 +1,4 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Vítor Del' Duca!!!</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Vítor Del' Duca!!!</h1>
 
 - 🤝🏻 Em trasição de carreira, busco oportunidade como Desenvolvedor Full Stack, Back-end ou Front-end Júnior;
 - 👨🏻‍🎓 Sou graduado em Direito e recentemente passei por uma imersão de 6 meses na Resilia Educação, com mais de 400 horas de estudos, onde foram trabalhadas valências soft e tech;
